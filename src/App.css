@@ -70,13 +70,13 @@ header {
 }
 
 .App-body .content-img {
-  width: 800px;
-  height: 400px;
+  width: 52.3vmax;;
+  height: 26.7vmax;
   margin-left: 20px;
 }
 .App-body .content-imgli {
-  width: 800px;
-  height: 400px;
+  width: 52.3vmax;
+  height: 26.7vmax;
   margin-left: -19px;  
 }
 
