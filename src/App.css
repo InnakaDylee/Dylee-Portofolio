@@ -4,6 +4,7 @@ html{
   background-attachment: fixed;
   background-size: cover;
   background-position: center;
+  overflow-x: hidden;
 }
 
 .App {
